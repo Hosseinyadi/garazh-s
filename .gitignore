@@ -1,10 +1,8 @@
 # Dependencies
 node_modules/
-server/node_modules/
 
 # Builds
 dist/
-server/uploads/
 
 # Logs
 npm-debug.log*
@@ -14,7 +12,6 @@ pnpm-debug.log*
 
 # Env
 .env
-server/.env
 
 # IDE/editor
 .vscode/
@@ -32,3 +29,4 @@ coverage/
 # Cache
 .cache/
 .tmp/
+
